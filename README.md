@@ -22,5 +22,8 @@ interesting repo's and articles about drone Tello ryze
 - Waiting for a drone
 - Trained the very first CNN for clasifications in my life
 ## Week 3
-
 ...
+## Week 4
+New articles
+- [Modern Face Recognition](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+..
